@@ -6,3 +6,7 @@ This is a new line in my readme file
 ## Chapter 1
 
 Bla bla bla
+
+## Chapter 2
+
+Ble blu bli bli bleee
